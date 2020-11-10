@@ -13,6 +13,6 @@ This project showcases the ability of simple molecular representations, in theis
 
 # Results
 
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/combined_accuracy_prediction_plot.jpg" width="600" height="800">
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/combined_accuracy_prediction_plot.jpg" width="700" height="700">
 
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/MEA_measures_spectrum.jpg" width="800" height="600">
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/MEA_measures_spectrum.jpg" width="700" height="700">
