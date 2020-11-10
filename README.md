@@ -7,4 +7,4 @@ This project showcases the ability of simple molecular representations, in theis
 <img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/toc_image.png" width="700" height="600">
 
 #Methods
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/diagram.png" width="700" height="600">
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/diagram.png" width="600" height="800">
