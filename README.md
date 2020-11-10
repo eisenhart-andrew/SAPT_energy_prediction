@@ -9,10 +9,10 @@ This project showcases the ability of simple molecular representations, in theis
 # Methods
 <img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/diagram.png" width="600" height="800">
 
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/input_data" width="800" height="600">
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/Input_data.jpg" width="800" height="600">
 
 # Results
 
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/diagram.png" width="600" height="800">
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/combined_accuracy_prediction_plot.jpg" width="600" height="800">
 
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/input_data" width="800" height="600">
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/images/MEA_measures_spectrum.jpg" width="800" height="600">
