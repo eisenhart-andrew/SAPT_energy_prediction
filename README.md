@@ -4,8 +4,8 @@
 #Abstract
 This project showcases the ability of simple molecular representations, in theis case colombic matrix, to provide sufficient information for a multi-layer perceptron to predict segmented interaction energies of water dimers arranged in 3D space. Our simpistic test case shwos that accuracies < 0.1 kcal/mol are possible.
 
-![TOC image](https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/toc_image.png){:height="50%" width="50%"}
-<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/toc_image.png" width="100" height="100">
+![TOC image](https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/toc_image.png)
+<img src="https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/toc_image.png" width="400" height="400">
 #Methods
 
 ![Diagram](https://raw.github.com/eisenhart-andrew/SAPT_energy_prediction/main/diagram.png)
